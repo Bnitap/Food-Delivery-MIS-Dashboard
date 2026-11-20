@@ -33,4 +33,12 @@ This project uses simulated food delivery order data for learning and portfolio 
 ## Project File
 Download the Excel workbook from this repository to explore the analysis and interactive dashboard.
 
+---
+
+## 📊 Dashboard Preview
+
+Here is a preview of my Food Delivery MIS Dashboard, showcasing the key performance indicators and interactive visualizations used to analyse food delivery operations.
+
+![Food Delivery MIS Dashboard](Food_Delivery_Dashboard.png)
+
 > **DISCLAIMER:** The order dataset used in this project is simulated and was created solely for learning and demonstration purposes. It does not represent actual customer or company data.
